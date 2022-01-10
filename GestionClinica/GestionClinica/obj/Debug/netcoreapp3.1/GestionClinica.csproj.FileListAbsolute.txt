@@ -1,0 +1,10 @@
+C:\Users\dpaz5\source\repos\GestionClinica\GestionClinica\bin\Debug\netcoreapp3.1\GestionClinica.deps.json
+C:\Users\dpaz5\source\repos\GestionClinica\GestionClinica\bin\Debug\netcoreapp3.1\GestionClinica.dll
+C:\Users\dpaz5\source\repos\GestionClinica\GestionClinica\bin\Debug\netcoreapp3.1\GestionClinica.pdb
+C:\Users\dpaz5\source\repos\GestionClinica\GestionClinica\obj\Debug\netcoreapp3.1\GestionClinica.csproj.AssemblyReference.cache
+C:\Users\dpaz5\source\repos\GestionClinica\GestionClinica\obj\Debug\netcoreapp3.1\GestionClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpaz5\source\repos\GestionClinica\GestionClinica\obj\Debug\netcoreapp3.1\GestionClinica.AssemblyInfoInputs.cache
+C:\Users\dpaz5\source\repos\GestionClinica\GestionClinica\obj\Debug\netcoreapp3.1\GestionClinica.AssemblyInfo.cs
+C:\Users\dpaz5\source\repos\GestionClinica\GestionClinica\obj\Debug\netcoreapp3.1\GestionClinica.csproj.CoreCompileInputs.cache
+C:\Users\dpaz5\source\repos\GestionClinica\GestionClinica\obj\Debug\netcoreapp3.1\GestionClinica.dll
+C:\Users\dpaz5\source\repos\GestionClinica\GestionClinica\obj\Debug\netcoreapp3.1\GestionClinica.pdb
