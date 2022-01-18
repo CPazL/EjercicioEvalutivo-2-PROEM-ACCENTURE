@@ -1,0 +1,16 @@
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\bin\Debug\net5.0\gestion.exe
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\bin\Debug\net5.0\gestion.deps.json
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\bin\Debug\net5.0\gestion.runtimeconfig.json
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\bin\Debug\net5.0\gestion.runtimeconfig.dev.json
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\bin\Debug\net5.0\gestion.dll
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\bin\Debug\net5.0\ref\gestion.dll
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\bin\Debug\net5.0\gestion.pdb
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\obj\Debug\net5.0\gestion.csproj.AssemblyReference.cache
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\obj\Debug\net5.0\gestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\obj\Debug\net5.0\gestion.AssemblyInfoInputs.cache
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\obj\Debug\net5.0\gestion.AssemblyInfo.cs
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\obj\Debug\net5.0\gestion.csproj.CoreCompileInputs.cache
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\obj\Debug\net5.0\gestion.dll
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\obj\Debug\net5.0\ref\gestion.dll
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\obj\Debug\net5.0\gestion.pdb
+C:\Users\dpaz5\source\repos\ClinicaPrivadaGestion\gestion\obj\Debug\net5.0\gestion.genruntimeconfig.cache
